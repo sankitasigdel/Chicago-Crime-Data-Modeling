@@ -3,6 +3,8 @@
 Used data from https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data to predict violent and non-violent crime.
 Used Logistic Regression and Decision tree to predict violent and non-violent crime in R.
 
+**Data used for this project is RData attached to this repo**
+
 Referred to Research Article 
 "Predicting and Preventing Crime: A Crime Prediction Model Using San Francisco Crime Data by Classification Techniques" 
 Authors: Muzammil Khan , Azmat Ali and Yasser Alharbi for this project.
